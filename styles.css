@@ -1,0 +1,14 @@
+ol{
+    text-transform: capitalize;
+    float: left;
+    padding-right: 30%;
+}
+li{
+    padding: 1%;
+}
+#checkbox{
+    margin-top: 10%;
+}
+p{
+    font-size: 200%;
+}
